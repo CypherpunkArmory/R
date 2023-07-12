@@ -1,4 +1,4 @@
-rootProject.name = "Octave"
+rootProject.name = "R"
 include ':app', ':UserLAndLibrary'
 project(':UserLAndLibrary').projectDir = new File('UserLAndLibrary/app')
 
