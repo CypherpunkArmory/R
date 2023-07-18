@@ -1,2 +1,2 @@
 App Name, Category, Filesystem Type Required, Supports CLI, Supports GUI, Supports Standalone, isPaidApp, Version
-R, Distribution, r, true, true, false, false, 1
+R, Distribution, r, false, true, false, false, 1
